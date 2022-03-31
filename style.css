@@ -1,0 +1,19 @@
+.flames
+ {
+color: rgb(229, 255, 0);
+font-family:cursive;
+font-size: xx-large;
+}
+    #m
+    {
+    color: rgb(255, 0, 255);
+        text-shadow:
+        0 0 7px #00fc22,
+        0 0 10px #23df3c,
+        0 0 21px #298b36,
+        0 0 42px #63a76c,
+        0 0 82px #123517,
+        0 0 92px #87ff97,
+        0 0 102px #64df74,
+        0 0 151px #0a250d;
+    }
